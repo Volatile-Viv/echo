@@ -12,8 +12,8 @@ function Login() {
   const [loading, setLoading] = useState(false);
 
   const [formData, setFormData] = useState({
-    email: "vivek@dev.com",
-    password: "vivek1234",
+    email: "",
+    password: "",
   });
 
   const handleChange = (e) => {
