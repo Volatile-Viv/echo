@@ -2,7 +2,6 @@ import React from "react";
 import { useSelector } from "react-redux";
 import { status } from "../store/authSlice";
 import authService from "../appwrite/appwriteConfig";
-import Login from "./Login";
 
 function Home() {
   const isLoggedIn = useSelector(status);
