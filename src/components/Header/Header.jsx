@@ -22,6 +22,11 @@ function Header() {
       slug: "/about",
       active: true,
     },
+    {
+      name: "GitHub",
+      slug: "https://github.com/volatile-viv/echo",
+      active: true,
+    },
   ];
 
   return (

@@ -38,7 +38,7 @@ To get started with Echo, follow these steps:
    npm run dev
    ```
 
-5. Visit http://localhost:3000 in your browser to view Echo.
+5. Visit http://localhost:5173 in your browser to view Echo.
 
 ## Technologies Used
 
